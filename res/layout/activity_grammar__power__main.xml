@@ -6,28 +6,110 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".Grammar_Power_MainActivity" >
+    tools:context=".Grammar_Power_MainActivity" 
+    android:background="@drawable/background">
     
-  	<LinearLayout android:layout_width="match_parent"
-  	    android:layout_height="match_parent"
-  	    android:orientation="vertical" >
-  	    
-  	    <RelativeLayout android:layout_width="match_parent"
-  	        android:layout_height="match_parent" >
-  	        
-  	        
-  	    </RelativeLayout>
-  	    
-  	    
-  	    
-  	</LinearLayout>
-        
-        
+    <LinearLayout
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:id="@+id/mainActivityLayout_titleImage"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/main"
+            android:adjustViewBounds="true"
+            android:contentDescription="Title Image"
+            />
+    </RelativeLayout>
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_weight="0.5"
+		        >        
+				 <ScrollView 
+				      	android:id="@+id/GrammarActivity_ScrollView"
+				      	android:layout_width="fill_parent"
+				   	 	android:layout_height="150dp"
+				    	android:scrollbars="vertical"
+				    	android:layout_marginTop="25dp"
+				    	>   
+				    <LinearLayout
+				        android:id="@+id/GrammarActivity_TextLayout"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:orientation="vertical" >
+				     <TextView 
+				        android:id="@+id/GrammarPowerActivity_titleText"        
+				        android:gravity="start"
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content"
+				        android:textColor="@android:color/black"       
+				        android:textSize="20sp"               
+				        android:text="@string/title"		        
+				        android:layout_marginTop="12dp"/>				   
+				    
+				    <TextView 
+				        android:id="@+id/GrammarActivity_option1"				  
+				        android:scrollbars="vertical"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:textColor="@android:color/black"
+				        android:layout_marginLeft="5dp"
+				        android:textSize="20sp"    
+				        android:text="@string/option1"/>
+				     <TextView 
+				        android:id="@+id/GrammarActivity_option2"				       
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:textColor="@android:color/black"
+				        android:layout_marginLeft="5dp"
+				        android:textSize="20sp"    
+				        android:text="@string/option2"/>
+				     <TextView 
+				        android:id="@+id/GrammarActivity_option3"				        
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:textColor="@android:color/black"
+				        android:layout_marginLeft="5dp"
+				        android:textSize="20sp"    
+				        android:text="@string/option3"/>
+				     <TextView 
+				        android:id="@+id/GrammarActivity_option4"				        
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:textColor="@android:color/black"
+				        android:layout_marginLeft="5dp"
+				        android:textSize="20sp"    
+				        android:text="@string/option4"/>
+				     <TextView 
+				        android:id="@+id/GrammarActivity_endText"				        
+				        android:gravity="start"
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content"
+				        android:textColor="@android:color/black"       
+				        android:textSize="20sp"    
+				        android:text="@string/endText"/>
+				     </LinearLayout>
+		</ScrollView>
+    <Button 
+        android:layout_below="@+id/GrammarActivity_ScrollView"
+        android:id="@+id/mainActivityLayout_StartButton"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="10dp"      
+        android:text="Start"/>
+    </RelativeLayout>
+	</LinearLayout>
     
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
-
+    
+    
 </RelativeLayout>

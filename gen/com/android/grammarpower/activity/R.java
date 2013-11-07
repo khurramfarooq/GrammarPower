@@ -910,10 +910,19 @@ containing a value of this type.
         public static final int abs__textfield_searchview_right_holo_dark=0x7f02006d;
         public static final int abs__textfield_searchview_right_holo_light=0x7f02006e;
         public static final int abs__toast_frame=0x7f02006f;
-        public static final int ic_launcher=0x7f020070;
-        public static final int main=0x7f020071;
+        public static final int background=0x7f020070;
+        public static final int ic_launcher=0x7f020071;
+        public static final int main=0x7f020072;
     }
     public static final class id {
+        public static final int GrammarActivity_ScrollView=0x7f040033;
+        public static final int GrammarActivity_TextLayout=0x7f040034;
+        public static final int GrammarActivity_endText=0x7f04003a;
+        public static final int GrammarActivity_option1=0x7f040036;
+        public static final int GrammarActivity_option2=0x7f040037;
+        public static final int GrammarActivity_option3=0x7f040038;
+        public static final int GrammarActivity_option4=0x7f040039;
+        public static final int GrammarPowerActivity_titleText=0x7f040035;
         public static final int abs__action_bar=0x7f040020;
         public static final int abs__action_bar_container=0x7f04001f;
         public static final int abs__action_bar_subtitle=0x7f040011;
@@ -953,11 +962,13 @@ containing a value of this type.
         public static final int abs__textButton=0x7f040013;
         public static final int abs__title=0x7f04001b;
         public static final int abs__up=0x7f04000b;
-        public static final int action_settings=0x7f040032;
+        public static final int action_settings=0x7f04003c;
         public static final int disableHome=0x7f040009;
         public static final int edit_query=0x7f040026;
         public static final int homeAsUp=0x7f040006;
         public static final int listMode=0x7f040002;
+        public static final int mainActivityLayout_StartButton=0x7f04003b;
+        public static final int mainActivityLayout_titleImage=0x7f040032;
         public static final int normal=0x7f040001;
         public static final int showCustom=0x7f040008;
         public static final int showHome=0x7f040005;
@@ -1040,8 +1051,14 @@ containing a value of this type.
         public static final int abs__shareactionprovider_share_with_application=0x7f090007;
         public static final int action_settings=0x7f09000e;
         public static final int app_name=0x7f09000d;
+        public static final int endText=0x7f090016;
         public static final int hello_world=0x7f09000f;
         public static final int main_image=0x7f090010;
+        public static final int option1=0x7f090012;
+        public static final int option2=0x7f090013;
+        public static final int option3=0x7f090014;
+        public static final int option4=0x7f090015;
+        public static final int title=0x7f090011;
     }
     public static final class style {
         /** 
