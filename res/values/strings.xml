@@ -11,5 +11,12 @@
     <string name="option3">* Prepositions</string>
     <string name="option4">* Phrasal verbs</string>
     <string name="endText">Test and learn!</string>
+    <string name="select_activity">Category</string>
+    <string name="irregular_verbs_past"> 1. Irregular verbs: past</string>
+    <string name="irregular_verbs_participle"> 2. Irregular verbs: participle</string>
+    <string name="noun_plural"> 3. Noun plural</string>
+    <string name="preposition_selected"> 4. Perposition selected</string>
+    <string name="phrasal_verbs"> 5. Phrasal verbs</string>
+    
 
 </resources>

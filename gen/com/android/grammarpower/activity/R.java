@@ -913,6 +913,12 @@ containing a value of this type.
         public static final int background=0x7f020070;
         public static final int ic_launcher=0x7f020071;
         public static final int main=0x7f020072;
+        public static final int mybutton=0x7f020073;
+        public static final int nounplural=0x7f020074;
+        public static final int participle=0x7f020075;
+        public static final int phrasalsverbs=0x7f020076;
+        public static final int prepositionselected=0x7f020077;
+        public static final int verbs=0x7f020078;
     }
     public static final class id {
         public static final int GrammarActivity_ScrollView=0x7f040033;
@@ -962,12 +968,18 @@ containing a value of this type.
         public static final int abs__textButton=0x7f040013;
         public static final int abs__title=0x7f04001b;
         public static final int abs__up=0x7f04000b;
-        public static final int action_settings=0x7f04003c;
+        public static final int action_settings=0x7f040042;
         public static final int disableHome=0x7f040009;
         public static final int edit_query=0x7f040026;
+        public static final int grammarAcitivty_strtBtn=0x7f04003b;
+        public static final int grammar_image=0x7f04003c;
+        public static final int grammar_irregularNounPlural=0x7f04003f;
+        public static final int grammar_irregularPerpositionSelected=0x7f040040;
+        public static final int grammar_irregularPhrasalVerbs=0x7f040041;
+        public static final int grammar_irregularVerbs=0x7f04003d;
+        public static final int grammar_irregularVerbsParticiple=0x7f04003e;
         public static final int homeAsUp=0x7f040006;
         public static final int listMode=0x7f040002;
-        public static final int mainActivityLayout_StartButton=0x7f04003b;
         public static final int mainActivityLayout_titleImage=0x7f040032;
         public static final int normal=0x7f040001;
         public static final int showCustom=0x7f040008;
@@ -1003,8 +1015,9 @@ containing a value of this type.
         public static final int abs__search_view=0x7f030013;
         public static final int abs__simple_dropdown_hint=0x7f030014;
         public static final int activity_grammar__power__main=0x7f030015;
-        public static final int sherlock_spinner_dropdown_item=0x7f030016;
-        public static final int sherlock_spinner_item=0x7f030017;
+        public static final int activity_grammar_power_option=0x7f030016;
+        public static final int sherlock_spinner_dropdown_item=0x7f030017;
+        public static final int sherlock_spinner_item=0x7f030018;
     }
     public static final class menu {
         public static final int grammar__power__main=0x7f0b0000;
@@ -1053,11 +1066,17 @@ containing a value of this type.
         public static final int app_name=0x7f09000d;
         public static final int endText=0x7f090016;
         public static final int hello_world=0x7f09000f;
+        public static final int irregular_verbs_participle=0x7f090019;
+        public static final int irregular_verbs_past=0x7f090018;
         public static final int main_image=0x7f090010;
+        public static final int noun_plural=0x7f09001a;
         public static final int option1=0x7f090012;
         public static final int option2=0x7f090013;
         public static final int option3=0x7f090014;
         public static final int option4=0x7f090015;
+        public static final int phrasal_verbs=0x7f09001c;
+        public static final int preposition_selected=0x7f09001b;
+        public static final int select_activity=0x7f090017;
         public static final int title=0x7f090011;
     }
     public static final class style {

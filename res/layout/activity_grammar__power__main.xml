@@ -100,7 +100,7 @@
 		</ScrollView>
     <Button 
         android:layout_below="@+id/GrammarActivity_ScrollView"
-        android:id="@+id/mainActivityLayout_StartButton"
+        android:id="@+id/grammarAcitivty_strtBtn"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:layout_width="match_parent"

@@ -22,6 +22,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity 
+            android:name="com.android.grammarpower.activity.Grammar_Power_SelectActivity"
+            android:label="@string/select_activity"
+             android:screenOrientation="portrait"
+            >
+            
+            
+            
+            
+        </activity>
     </application>
 
 </manifest>
