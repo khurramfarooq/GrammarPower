@@ -1,5 +1,3 @@
-
-    
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:shape="rectangle"
@@ -11,24 +9,39 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".Grammar_Power_MainActivity" 
     android:background="@drawable/background">
-
-				<ImageView
-		            android:layout_width="wrap_content"
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+    	    android:layout_weight="0.3"
+    	    android:layout_gravity="center_vertical|center_horizontal">
+    	    <ImageView
+		            android:layout_width="match_parent"
 		            android:id="@+id/grammar_image"
-		            android:layout_height="wrap_content"		            
-		            android:src="@drawable/main"         
-		           	android:layout_alignParentLeft="true"
-       				android:layout_alignParentRight="true"          				   				    
+		            android:layout_height="match_parent"		            
+		            android:src="@drawable/main_logo"    
+		            android:layout_centerHorizontal="true"    				   				    
 		            android:contentDescription="Title Image"
 		            />
-				  <Button 				       
-			        android:id="@+id/grammar_irregularVerbs"
-			        android:layout_below="@+id/grammar_image"			       
+    	</RelativeLayout>
+    	<RelativeLayout 
+    	    android:layout_width="match_parent"
+    	    android:layout_height="0dp"
+    	    android:layout_weight="0.7"
+			        android:layout_marginTop="15dp"  
+    	    >
+    	    <Button 				       
+			        android:id="@+id/grammar_irregularVerbs"		       
 			        android:layout_width="match_parent"
-       				android:layout_height="wrap_content"
-			        android:layout_marginTop="40dp"      
+       				android:layout_height="wrap_content"    
 			        android:text="@string/irregular_verbs_past"
 			        android:textColor="@android:color/black"
+			        android:gravity="left"
 			        />
 				   <Button 				       
 			        android:id="@+id/grammar_irregularVerbsParticiple"
@@ -37,6 +50,7 @@
 			        android:layout_height="wrap_content" 
 			        android:text="@string/irregular_verbs_participle"
 			        android:textColor="@android:color/black"
+			        android:gravity="left"
 			        />
 				    <Button 				       
 				        android:id="@+id/grammar_irregularNounPlural"
@@ -45,6 +59,7 @@
 				        android:layout_height="wrap_content" 
 				        android:text="@string/noun_plural"
 				        android:textColor="@android:color/black"
+			        android:gravity="left"
 			        />
 				    <Button 				       
 				        android:id="@+id/grammar_irregularPerpositionSelected"
@@ -53,6 +68,7 @@
 				        android:layout_height="wrap_content"  
 				        android:text="@string/preposition_selected"
 				        android:textColor="@android:color/black"
+			        android:gravity="left"
 			        />
 				      <Button 				       
 				        android:id="@+id/grammar_irregularPhrasalVerbs"
@@ -60,8 +76,13 @@
 				        android:layout_width="match_parent"
 				        android:layout_height="wrap_content"  
 				        android:text="@string/phrasal_verbs"
-				        android:textColor="@android:color/black"	        				        
+				        android:textColor="@android:color/black"
+			        android:gravity="left"	        				        
 			        />
-	
-	 
+    	</RelativeLayout>
+    </LinearLayout>
+    
+    	
+				
+				  
 </RelativeLayout>

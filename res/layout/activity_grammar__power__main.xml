@@ -17,7 +17,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="0.3"
+        android:layout_weight="0.4"
         android:id="@+id/mainActivityLayout_titleImage"
         >
         <ImageView
@@ -31,7 +31,7 @@
     <RelativeLayout 
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="0.5"
+        android:layout_weight="0.4"
 		        >        
 				 <ScrollView 
 				      	android:id="@+id/GrammarActivity_ScrollView"
@@ -114,9 +114,5 @@
         android:layout_marginTop="10dp"      
         android:text="Start"/>
 	</RelativeLayout>
-	
 	</LinearLayout>
-    
-    
-    
 </RelativeLayout>

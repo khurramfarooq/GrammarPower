@@ -915,13 +915,14 @@ containing a value of this type.
         public static final int bg_selected_choice=0x7f020072;
         public static final int ic_launcher=0x7f020073;
         public static final int main=0x7f020074;
-        public static final int multiple_choice_layout=0x7f020075;
-        public static final int mybutton=0x7f020076;
-        public static final int nounplural=0x7f020077;
-        public static final int participle=0x7f020078;
-        public static final int phrasalsverbs=0x7f020079;
-        public static final int prepositionselected=0x7f02007a;
-        public static final int verbs=0x7f02007b;
+        public static final int main_logo=0x7f020075;
+        public static final int multiple_choice_layout=0x7f020076;
+        public static final int mybutton=0x7f020077;
+        public static final int nounplural=0x7f020078;
+        public static final int participle=0x7f020079;
+        public static final int phrasalsverbs=0x7f02007a;
+        public static final int prepositionselected=0x7f02007b;
+        public static final int verbs=0x7f02007c;
     }
     public static final class id {
         public static final int GrammarActivity_ScrollView=0x7f040033;
