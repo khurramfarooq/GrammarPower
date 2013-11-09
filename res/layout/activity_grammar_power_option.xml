@@ -1,0 +1,95 @@
+
+    
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Grammar_Power_MainActivity" 
+    android:background="@drawable/background">
+
+				<ImageView
+		            android:layout_width="150dp"
+		            android:id="@+id/grammar_image"
+		            android:layout_height="150dp"		            
+		            android:src="@drawable/main"         
+		           	android:layout_alignParentLeft="true"
+       				android:layout_alignParentRight="true"          				   				    
+		            android:contentDescription="Title Image"
+		            />
+				  <Button 				       
+			        android:id="@+id/grammar_irregularVerbs"
+			        android:layout_below="@+id/grammar_image"			       
+			        android:layout_width="fill_parent"
+       				android:layout_height="wrap_content"
+        			android:gravity="left"
+			        android:layout_marginTop="40dp"      
+			        android:text="@string/irregular_verbs_past"
+			        android:textColor="@android:color/white"	
+			        android:textStyle="bold"
+			        android:background="@drawable/verbs"
+			        android:paddingLeft="10dp"
+				    android:paddingTop="5dp"		        
+			        />
+				   <Button 				       
+			        android:id="@+id/grammar_irregularVerbsParticiple"
+			        android:layout_below="@+id/grammar_irregularVerbs"			       
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content" 
+			        android:gravity="left"
+			        android:layout_marginTop="10dp"      
+			        android:text="@string/irregular_verbs_participle"
+			        android:textColor="@android:color/white"
+			        android:textStyle="bold"
+			        android:background="@drawable/participle"
+			        android:paddingLeft="10dp"
+				    android:paddingTop="5dp"	
+			        />
+				    <Button 				       
+				        android:id="@+id/grammar_irregularNounPlural"
+				        android:layout_below="@+id/grammar_irregularVerbsParticiple"			       
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content" 
+				       	android:gravity="left"
+				        android:layout_marginTop="10dp"      
+				        android:text="@string/noun_plural"
+				        android:textColor="@android:color/white"
+				        android:textStyle="bold"
+				        android:background="@drawable/nounplural"
+				        android:paddingLeft="10dp"
+				        android:paddingTop="5dp"
+			        />
+				    <Button 				       
+				        android:id="@+id/grammar_irregularPerpositionSelected"
+				        android:layout_below="@+id/grammar_irregularNounPlural"			       
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content" 
+				        android:gravity="left"
+				        android:layout_marginTop="10dp"      
+				        android:text="@string/preposition_selected"
+				        android:textColor="@android:color/white"
+				        android:textStyle="bold"
+				        android:background="@drawable/prepositionselected"
+				        android:paddingLeft="10dp"
+				        android:paddingTop="5dp"
+			        />
+				      <Button 				       
+				        android:id="@+id/grammar_irregularPhrasalVerbs"
+				        android:layout_below="@+id/grammar_irregularPerpositionSelected"			       
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content" 
+				        android:gravity="left"
+				        android:layout_marginTop="10dp"      
+				        android:text="@string/phrasal_verbs"
+				        android:textColor="@android:color/white"
+				        android:background= "@drawable/phrasalsverbs"
+				        android:paddingLeft="10dp"
+				        android:paddingTop="5dp"				        				        
+			        />
+	
+	 
+</RelativeLayout>
