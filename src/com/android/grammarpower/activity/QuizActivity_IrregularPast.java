@@ -12,6 +12,8 @@ import android.graphics.Typeface;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.SystemClock;
+import android.text.SpannableString;
+import android.text.style.ForegroundColorSpan;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -118,10 +120,18 @@ public class QuizActivity_IrregularPast extends SherlockFragmentActivity  {
 					hours = timeArr[0].trim();
 					minutes = timeArr[1].trim();
 					seconds = timeArr[2].trim();
+					
+					// this is the text we'll be operating on  
+				    SpannableString text = new SpannableString("You did within " + hours + " hours, "+ minutes +" minutes, "+ seconds +" seconds: "+ (questionNumber - 2));  
+				  
+				    // make "Lorem" (characters 0 to 5) red  
+				    int index = text.toString().indexOf(": ");
+				    index = index + 2;
+				    text.setSpan(new ForegroundColorSpan(Color.RED), index, text.toString().length() - 1, 0);
 					AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(QuizActivity_IrregularPast.this);
 					// set dialog message
 					alertDialogBuilder
-							.setMessage("You did within " + hours + " hours, "+ minutes +" minutes, "+ seconds +" seconds: "+ (questionNumber - 2))
+							.setMessage(text)
 							.setCancelable(false)
 							.setPositiveButton("continue",
 									new DialogInterface.OnClickListener() {
@@ -141,10 +151,14 @@ public class QuizActivity_IrregularPast extends SherlockFragmentActivity  {
 				{
 					minutes = timeArr[0].trim();
 					seconds = timeArr[1].trim();
+					SpannableString text = new SpannableString("You did within "+ minutes +" minutes, "+ seconds +" seconds: "+ (questionNumber - 2));
+					int index = text.toString().indexOf(": ");
+				    index = index + 2;
+				    text.setSpan(new ForegroundColorSpan(Color.RED), index, text.toString().length(), 0);
 					AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(QuizActivity_IrregularPast.this);
 					// set dialog message
 					alertDialogBuilder
-							.setMessage("You did within "+ minutes +" minutes, "+ seconds +" seconds: "+ (questionNumber - 2))
+							.setMessage(text)
 							.setCancelable(false)
 							.setPositiveButton("continue",
 									new DialogInterface.OnClickListener() {
@@ -380,7 +394,7 @@ public class QuizActivity_IrregularPast extends SherlockFragmentActivity  {
     public boolean onCreateOptionsMenu(Menu menu) 
     {
     	 // First Menu Button
-    	menu.add("MENÜ")
+    	menu.add("MENU")
         .setOnMenuItemClickListener(this.MenuButtonHandler)
         .setShowAsAction(MenuItem.SHOW_AS_ACTION_ALWAYS);
         
