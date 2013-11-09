@@ -911,14 +911,17 @@ containing a value of this type.
         public static final int abs__textfield_searchview_right_holo_light=0x7f02006e;
         public static final int abs__toast_frame=0x7f02006f;
         public static final int background=0x7f020070;
-        public static final int ic_launcher=0x7f020071;
-        public static final int main=0x7f020072;
-        public static final int mybutton=0x7f020073;
-        public static final int nounplural=0x7f020074;
-        public static final int participle=0x7f020075;
-        public static final int phrasalsverbs=0x7f020076;
-        public static final int prepositionselected=0x7f020077;
-        public static final int verbs=0x7f020078;
+        public static final int bg_choices=0x7f020071;
+        public static final int bg_selected_choice=0x7f020072;
+        public static final int ic_launcher=0x7f020073;
+        public static final int main=0x7f020074;
+        public static final int multiple_choice_layout=0x7f020075;
+        public static final int mybutton=0x7f020076;
+        public static final int nounplural=0x7f020077;
+        public static final int participle=0x7f020078;
+        public static final int phrasalsverbs=0x7f020079;
+        public static final int prepositionselected=0x7f02007a;
+        public static final int verbs=0x7f02007b;
     }
     public static final class id {
         public static final int GrammarActivity_ScrollView=0x7f040033;
@@ -968,7 +971,7 @@ containing a value of this type.
         public static final int abs__textButton=0x7f040013;
         public static final int abs__title=0x7f04001b;
         public static final int abs__up=0x7f04000b;
-        public static final int action_settings=0x7f040042;
+        public static final int action_settings=0x7f04004d;
         public static final int disableHome=0x7f040009;
         public static final int edit_query=0x7f040026;
         public static final int grammarAcitivty_strtBtn=0x7f04003b;
@@ -982,6 +985,17 @@ containing a value of this type.
         public static final int listMode=0x7f040002;
         public static final int mainActivityLayout_titleImage=0x7f040032;
         public static final int normal=0x7f040001;
+        public static final int quizActivity_lLayoutOption1=0x7f040045;
+        public static final int quizActivity_lLayoutOption2=0x7f040047;
+        public static final int quizActivity_lLayoutOption3=0x7f040049;
+        public static final int quizActivity_option1=0x7f040046;
+        public static final int quizActivity_option2=0x7f040048;
+        public static final int quizActivity_option3=0x7f04004a;
+        public static final int quizActivity_optionLinearLayout=0x7f040044;
+        public static final int quizActivity_optionResultImage=0x7f04004b;
+        public static final int quizActivity_questionTextInWhite=0x7f040043;
+        public static final int quizActivity_questionTextInYellow=0x7f040042;
+        public static final int quizActivity_stopButton=0x7f04004c;
         public static final int showCustom=0x7f040008;
         public static final int showHome=0x7f040005;
         public static final int showTitle=0x7f040007;
@@ -1016,8 +1030,9 @@ containing a value of this type.
         public static final int abs__simple_dropdown_hint=0x7f030014;
         public static final int activity_grammar__power__main=0x7f030015;
         public static final int activity_grammar_power_option=0x7f030016;
-        public static final int sherlock_spinner_dropdown_item=0x7f030017;
-        public static final int sherlock_spinner_item=0x7f030018;
+        public static final int activity_grammar_power_quiz=0x7f030017;
+        public static final int sherlock_spinner_dropdown_item=0x7f030018;
+        public static final int sherlock_spinner_item=0x7f030019;
     }
     public static final class menu {
         public static final int grammar__power__main=0x7f0b0000;
@@ -1066,16 +1081,19 @@ containing a value of this type.
         public static final int app_name=0x7f09000d;
         public static final int endText=0x7f090016;
         public static final int hello_world=0x7f09000f;
-        public static final int irregular_verbs_participle=0x7f090019;
-        public static final int irregular_verbs_past=0x7f090018;
+        public static final int irregular_verbs_participle=0x7f09001a;
+        public static final int irregular_verbs_past=0x7f090019;
         public static final int main_image=0x7f090010;
-        public static final int noun_plural=0x7f09001a;
+        public static final int noun_plural=0x7f09001b;
         public static final int option1=0x7f090012;
         public static final int option2=0x7f090013;
         public static final int option3=0x7f090014;
         public static final int option4=0x7f090015;
-        public static final int phrasal_verbs=0x7f09001c;
-        public static final int preposition_selected=0x7f09001b;
+        public static final int past_question=0x7f09001f;
+        public static final int phrasal_verbs=0x7f09001d;
+        public static final int preposition_selected=0x7f09001c;
+        public static final int quiz_activity=0x7f09001e;
+        public static final int quiz_activity_button_stop_text=0x7f090018;
         public static final int select_activity=0x7f090017;
         public static final int title=0x7f090011;
     }

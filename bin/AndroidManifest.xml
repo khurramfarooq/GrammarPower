@@ -25,11 +25,16 @@
         <activity 
             android:name="com.android.grammarpower.activity.Grammar_Power_SelectActivity"
             android:label="@string/select_activity"
-             android:screenOrientation="portrait"
+            android:screenOrientation="portrait"
             >
             
             
-            
+        </activity>
+        <activity
+            android:name="com.android.grammarpower.activity.Grammar_Power_QuizActivity"
+            android:label="@string/quiz_activity"
+            android:screenOrientation="portrait"            
+            >
             
         </activity>
     </application>
