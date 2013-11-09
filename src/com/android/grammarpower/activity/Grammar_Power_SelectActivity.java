@@ -38,8 +38,11 @@ public class Grammar_Power_SelectActivity extends SherlockFragmentActivity {
 		Bitmap bitmap = ((BitmapDrawable)imageView.getDrawable()).getBitmap();
 		imageView.setImageBitmap(ImageHelper.getRoundedCornerBitmap(bitmap, 20));
 		
-		verbsBtn = (Button)this.findViewById(R.id.grammar_irregularVerbs);
-		
+		verbsBtn = (Button)this.findViewById(R.id.grammar_irregularPast);
+		participleBtn = (Button)this.findViewById(R.id.grammar_irregularVerbsParticiple);
+		nounPlural = (Button)this.findViewById(R.id.grammar_irregularNounPlural);
+		perpositionBtn = (Button)this.findViewById(R.id.grammar_irregularPerpositionSelected);
+		phrasalBtn = (Button)this.findViewById(R.id.grammar_irregularPhrasalVerbs);
 		
 		
 		
@@ -47,13 +50,47 @@ public class Grammar_Power_SelectActivity extends SherlockFragmentActivity {
 			
 			@Override
 			public void onClick(View v) {
-				Intent intent = new Intent(Grammar_Power_SelectActivity.this, Grammar_Power_QuizActivity.class);
+				Intent intent = new Intent(Grammar_Power_SelectActivity.this, QuizActivity_IrregularPast.class);
 				startActivity(intent);
 				
 			}
 		});
-		
-		
+		participleBtn.setOnClickListener(new View.OnClickListener() {
+					
+					@Override
+					public void onClick(View v) {
+						Intent intent = new Intent(Grammar_Power_SelectActivity.this, QuizActivity_Participles.class);
+						startActivity(intent);
+						
+					}
+				});
+		nounPlural.setOnClickListener(new View.OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(Grammar_Power_SelectActivity.this, QuizActivity_NounPlural.class);
+				startActivity(intent);
+				
+			}
+		});
+		perpositionBtn.setOnClickListener(new View.OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(Grammar_Power_SelectActivity.this, QuizActivity_Preposition.class);
+				startActivity(intent);
+				
+			}
+		});
+		phrasalBtn.setOnClickListener(new View.OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(Grammar_Power_SelectActivity.this, QuizActivity_PhrasalVerbs.class);
+				startActivity(intent);
+				
+			}
+		});
 	}
 
 }

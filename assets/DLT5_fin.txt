@@ -1,0 +1,742 @@
+1;on;prepared to take ___ something;along/on/round
+2;off;aren't we all better ___;off/back/around
+3;up;assess and build ___ your;along/around/up
+4;up;assists you in drawing ___;over/out/up
+5;up;build your own routine ___ gradually;back/down/up
+6;up;cried Denis and jumped ___;along/around/up
+7;off;described earlier, can pay ___ spectacularly;back/off/down
+8;on;do this before you go ___ to;along/on/through
+9;up;don't forget to pick ___ your;off/out/up
+10;up;don't pick him ___ unless;down/off/up
+11;back;don't waste time looking ___ on;in/back/along
+12;around;drink is taken while rushing ___;around/down/back
+13;up;fear that information will end ___ in;around/up/about
+14;back;you minimised the pay ___ period;along/about/back
+15;out;is meant to catch them ___ rather;on/out/through
+16;on;know what's been goin' ___;on/down/around
+17;out;performing in concert, speaking ___ on;up/out/around
+18;out;preparing and sending ___ statements;out/about/around
+19;out;question and observe to test ___ how;out/in/down
+20;around;remember rock'n'roll the first time ___;back/around/about
+21;back;said the major, walking ___ to;in/off/back
+22;down;being systematically broken ___ into;in/down/about
+23;out;try not to start ___ with;along/out/down
+24;in;visualise the air you breathe ___ as;on/in/down
+25;out;who hope to drive them ___ and;off/out/round
+26;in;who says anythin' about goin' ___ with;up/about/in
+27;out;who both fortunately had taken ___ a;out/back/along
+28;through;have thought things ___ instead of;through/in/up
+29;out;a classic way of finding ___ how;along/up/out
+30;off;a day, why not send ___ now;over/off/out
+31;out;a deep breath, she stepped ___ into;down/out/on
+32;down;a feeling of being run ___;up/down/over
+33;in;a few years you could be ___ for;in/along/up
+34;in;a first class degree to join ___;in/round/over
+35;off;a gambler's luck finally paid ___;off/in/down
+36;on;a great deal of matchmaking went ___;over/on/in
+37;out;a holiday caravan park look ___ for;down/off/out
+38;out;a husband and wife can take ___ a;out/back/along
+39;back;a life-threatening illness, will sit ___ in;out/back/down
+40;back;a little while until she went ___ to;around/back/about
+41;up;a new business is to take ___ a;on/in/up
+42;out;a research project carried ___ in;about/out/back
+43;up;a rest and leave the washing ___ till;off/out/up
+44;down;a single sheet of paper write ___ the;off/in/down
+45;back;a sudden aroma can take us ___ to;around/back/about
+46;down;Abel suddenly bent ___ to;off/round/down
+47;around;able to do nothing but laze ___;down/back/around
+48;back;about when it should be brought ___ for;off/on/back
+49;up;above that modem education brings us ___ from;on/in/up
+50;in;accumulating and you can cash it ___;in/out/on
+51;down;actually writing it ___ can;off/out/down
+52;out;advantages should they carry ___ the;around/down/out
+53;on;aisle around the coffin and spilled ___ to;about/on/over
+54;on;alan parker follows ___ from;back/down/on
+55;out;all home risks policies set ___ the;along/out/down
+56;back;all Maria wanted was to get ___ to;on/back/round
+57;out;all she did was hold ___ her;along/out/down
+58;up;information necessary to make ___ his;off/in/up
+59;out;alone and are able to get ___;up/out/around
+60;in;already yet he knew he was ___ for;in/on/up
+61;on;although we will go ___ to;out/over/on
+62;up;although you might have money saved ___;up/over/through
+63;up;Americans in Paris attempting to pick ___ the;off/in/up
+64;on;amount to anything will go ___ to;along/on/through
+65;out;an accident the plan would pay ___ up to;down/out/on
+66;in;an employee is asked to send ___ a;in/round/up
+67;about;an excess of caffeine can bring ___ many;about/up/through
+68;out;amusing that film-goers were shut ___ in;through/over/out
+69;out;an appropriate resolution is set ___ as;on/out/through
+70;up;and as the soldier lit ___ there;along/up/through
+71;off;and cheaply it will pay ___ the;off/up/round
+72;up;and clothes stalls, Berta kept ___ with;up/in/down
+73;in;and Denis had to pile ___ beside;up/through/in
+74;in;and even if you just pop ___ for;in/through/over
+75;round;and he glanced ___ at;about/round/back
+76;out;and he was glad to get ___;around/out/through
+77;back;and how he was brought ___ from;over/back/about
+78;on;and if he willingly takes ___ his;back/along/on
+79;back;and Noreen threatened to send her ___ to;off/back/in
+80;back;and now there was no going ___;in/off/back
+81;in;and occasionally do, creep ___;out/on/in
+82;out;and other factors as set ___ on;up/through/out
+83;up;and our reserves have been built ___ over;on/in/up
+84;off;preparation which may well pay ___ during;off/along/up
+85;out;security plan that can pay ___ twice;down/back/out
+86;up;and soon the whole family was ___ on;out/on/up
+87;up;and that's a long way ___ for;on/in/up
+88;through;and the final stage is follow ___;through/around/down
+89;on;and the old father was ranting ___ in;in/back/on
+90;out;and the risk has turned ___ to;round/out/back
+91;over;whole process begins all ___ again;along/over/down
+92;back;and then have to go ___ to;about/up/back
+93;up;and then he gets ___ on;around/about/up
+94;up;and they're growing ___ to;around/back/up
+95;off;and two small, were taken ___ again;off/round/out
+96;back;and you don't pay it ___ until;down/in/back
+97;up;and your payment can go ___;up/out/on
+98;up;and, each time you make ___ a;up/in/down
+99;on;anger with the world for going ___;on/down/around
+100;down;annual rate of inflation would be ___ to;down/on/in
+101;in;apply, you need only fill ___ one;up/about/in
+102;out;and tables are laid ___ properly;down/off/out
+103;up;arm round her then Carmella reached ___;up/in/back
+104;out;arrange for pay to be given ___ at;round/out/on
+105;up;arrangements can be set ___;on/in/up
+106;out;arrive, and ensure you look ___ for;through/over/out
+107;out;as Jim was not ideally cut ___ to;out/up/around
+108;out;as many economists have pointed ___;in/out/around
+109;up;as she moved ___;up/through/along
+110;around;as stressful as too much rushing ___;around/round/over
+111;up;as the coffin was lifted ___ on;back/down/up
+112;out;as the ford booklet points ___;out/out/in
+113;up;as the orchestra took ___ the;around/up/about
+114;on;asked whether banks can carry ___ their;along/on/round
+115;down;association of British insurers which set ___ codes;back/around/down
+116;about;at a desk or even rushing ___ in;about/along/around
+117;out;at all, you can work it ___ from;out/along/back
+118;off;about something going ___ into;off/into/along
+119;about;at its best, sex brings ___ true;about/through/up
+120;out;at least, she was venturing ___ onto;along/out/down
+121;up;at this Becky sat ___;around/about/up
+122;off;atom and in the process started ___ a;off/over/on
+123;on;banking business in Yugoslavia is carried ___ by;on/down/around
+124;on;28-year-old Branagh is taking ___ here;along/on/round
+125;out;complaint if events turn ___ differently;through/over/out
+126;out;the amount paid ___ would;out/along/back
+127;on;be able to afford to carry ___ paying;out/over/on
+128;in;be necessary to cash the policy ___ early;back/down/in
+129;up;be on hand to help them ___ again;round/over/up
+130;up;be quite capable of picking yourself ___;round/over/up
+131;out;and try the presentation ___ on;along/through/out
+132;up;Becky stopped buttoning ___ her;off/out/up
+133;out;Becky was put ___ in;out/up/back
+134;down;becomes an expert at putting himself ___;down/on/in
+135;down;been calculated on the basis laid ___ by;around/back/down
+136;through;reached implementation or follow ___;through/along/back
+137;through;before Michael's quip got ___ to;through/down/back
+138;up;behind the sofa and whirled her ___ in;round/through/up
+139;about;harmony can be brought ___ by;about/on/off
+140;on;tree with sedan chairs hanging ___ the;up/on/along
+141;in;botch of an idea to come ___ through;in/through/over
+142;out;both let you spread ___ payments;out/along/back
+143;back;both parties a chance to stand ___ from;back/along/up
+144;up;both men had moved ___ in;up/through/about
+145;off;Bristol and west, you start ___ with;off/up/round
+146;out;Britain, no less come ___ happier;down/off/out
+147;down;British troops were bogged ___ in;through/up/down
+148;down;which meets certain criteria laid ___ by;off/in/down
+149;out;but because they had taken ___ a;over/out/off
+150;in;but if you're goin' ___ with;in/on/up
+151;in;but in 1919 disenchantment set ___ around;down/back/in
+152;up;but not against heave swelling ___ of;along/up/through
+153;down;but seven-year-old Berta would not lie ___;down/through/round
+154;up;but you wouldn't keep it ___ for long;round/through/up
+155;up;but, because it tones ___ the;in/on/up
+156;back;specialist who duly reports ___ on;off/on/back
+157;out;by such attitudes when it set ___ to;out/in/down
+158;in;by year, you just fill ___ a;in/along/up
+159;out;called the police to sort it ___;back/out/on
+160;in;can show them where they fit ___;about/up/in
+161;up;can show you how to wake ___;down/around/up
+162;out;can I take ___ this;about/out/back
+163;up;can I not pick him ___;round/through/up
+164;out;can my partner take ___ a;down/off/out
+165;up;can you find somewhere to offer ___ a;off/out/up
+166;on;car came, and they climbed ___;over/out/on
+167;out;cash benefits when your partner takes ___ his;round/out/on
+168;up;children are grown ___ now;back/down/up
+169;out;the right people to carry ___ what;back/out/up
+170;out;church, and the organ blared ___ the;out/about/around
+171;off;complete the coupon opposite tear ___ and;off/out/round
+172;out;conditions of the policy are set ___ on;in/out/on
+173;up;consuming that many managers merely give ___ the;down/back/up
+174;out;be asked to carry ___ bidding;along/back/out
+175;off;country so why not take ___ and;off/in/down
+176;along;cousin at first, and kept peering ___ as if;up/through/along
+177;off;cover you may already have leaves ___;in/off/down
+178;down;Denis dutifully bent ___ and;back/down/out
+179;up;Denis, he supposed, keeping ___ the;round/over/up
+180;up;despite great efforts to bottle ___;round/over/up
+181;out;details of the scheme are worked ___ to;off/out/round
+182;up;proceeded to build it ___ into;up/around/about
+183;up;discounting, to release cash tied ___ in;over/out/up
+184;out;diva stood centre-stage and belted ___;up/out/around
+185;down;do so they will let you ___;down/around/about
+186;along;do the same thing when walking ___;about/up/along
+187;up;doesn't matter if the child grows ___ to;off/in/up
+188;up;order and keeping ___ appearances;back/down/up
+189;on;don't really know what went ___ from;through/on/out
+190;down;dozen times then try to set ___ the;down/on/in
+191;back;Dr Arlen, who had come ___ at once;along/about/back
+192;off;dress waiting for them to come ___ so that;off/down/back
+193;up;during the 2 years before taking ___ the;up/in/down
+194;in;easy to plumb ___ and;in/around/along
+195;through;the response to be thought ___;through/down/around
+196;up;enough, and more than kept ___ with;back/in/up
+197;down;equipment, which kept costs ___;in/down/about
+198;in;even Florence had been brought ___;out/in/down
+199;out;every week we carry ___ around;through/over/out
+200;about;exercise alone is unlikely to bring ___ a;about/in/down
+201;over;exercise routine and after it is ___;round/over/about
+202;up;face when he stopped as if seized ___;off/out/up
+203;back;fallen, although not completely ___ to;on/out/back
+204;down;far more to negotiating than sitting ___;down/round/out
+205;out;fatally, as it turned ___;out/in/down
+206;up;fell and was trying to get ___;up/around/about
+207;back;a framework which stretches ___ to;in/back/along
+208;up;finally, the government held ___ payment;about/through/up
+209;through;find them a pleasure to browse ___;through/in/down
+210;out;first aid kit when you take ___ the;around/out/through
+211;in;first national bank loan fill ___ the;in/on/up
+212;out;first stages have been carried ___ thoroughly;back/out/up
+213;around;flexibility of being able to shop ___ for;round/through/around
+214;back;flint tools from a site dating ___ to;along/around/back
+215;out;florence Keith cried ___;up/out/on
+216;about;fluctuations in weather bring ___ hormonal;about/through/round
+217;out;for a transaction to be carried ___ with;up/through/out
+218;around;for him to be running ___ after;out/on/around
+219;over;for the old lady to come ___;on/over/down
+220;in;for the space you are working ___;around/along/in
+221;up;for those who wish to give ___ smoking;around/up/about
+222;up;for when they grew ___ a bit;out/on/up
+223;out;force the banks to bail them ___;back/out/up
+224;up;forward for giving ___ smoking;through/round/up
+225;out;free gifts when you take ___ the;up/round/out
+226;out;calculator when you take ___ family;out/back/along
+227;in;french court, the camera moves ___ to;up/through/in
+228;up;homes have gone ___ alarmingly;over/out/up
+229;down;future performance as investments can go ___ as well as;down/through/round
+230;out;garden furniture, whether it's ___ in;on/out/through
+231;down;gas mantle and was turning it ___;on/out/down
+232;down;go from room to room noting ___ what;down/back/along
+233;up;good, the child may grow ___ to;over/out/up
+234;over;services simply by handing ___ your;through/over/round
+235;in;growth and you can cash it ___;in/in/down
+236;back;guilt, or constantly thinking ___ to;off/on/back
+237;off;had had to take the time ___;through/off/up
+238;back;discussed and can explain ___ to;over/back/about
+239;down;has made rules which lay ___ two;on/off/down
+240;down;has made rules which lay ___ two;down/out/off
+241;down;has made rules which lay ___ two;down/through/round
+242;up;have a lot of money tied ___ in;back/around/up
+243;out;have a nasty habit of turning ___ to;along/up/out
+244;over;have the cash, paying it ___ could;on/over/down
+245;up;have up to 15 days to make ___ your;back/along/up
+246;out;he adjusted himself and stretched ___;down/out/on
+247;in;he got her ___ to;along/around/in
+248;up;he had taken her ___ to;up/around/back
+249;down;he had to get these three ___ to;out/over/down
+250;up;he had to keep the prices ___;up/around/back
+251;down;covered with blood looking ___ on;down/round/out
+252;out;he said, stretching himself ___ on;back/out/up
+253;up;he may have to put ___ with;off/in/up
+254;off;he would indeed be better ___ doing;off/about/through
+255;over;hell, let's get it ___ with;through/over/off
+256;around;help you select the best deal ___;through/round/around
+257;up;her generous frame, then stood ___ and;through/round/up
+258;on;herbalists or homoeopaths can go ___ to;about/on/down
+259;about;high fat content may bring ___ depressive;about/up/round
+260;over;him if he'll take me ___ to;back/over/out
+261;back;his big brother, and stumbled ___ into;on/out/back
+262;up;his uncle, and Billy reached ___ and;about/through/up
+263;out;holiday in the scottish highlands was ___ for;over/round/out
+264;out;home improvement loan can be taken ___ in;back/out/up
+265;up;how companies can set ___ a;back/down/up
+266;up;how groups of directors can set ___ a;down/in/up
+267;out;how it all works ___ makes;out/along/back
+268;out;however the day turns ___;round/out/about
+269;up;however, seems to end ___ learning;up/along/back
+270;out;husband and wife could each take ___ this;down/back/out
+271;up;I feel the right fool ___ here;round/through/up
+272;out;I find it hard to laugh ___ loud;through/over/out
+273;on;I hope it doesn't drag ___;in/on/back
+274;on;I mean, Hana went ___;down/back/on
+275;over;I took Maria ___ to;round/over/about
+276;out;idea is not to block them ___;along/up/out
+277;on;if I didn't keep ___ at;off/out/on
+278;out;if it is unavoidable then type ___ the;along/out/round
+279;out;if so, dig them ___ now;around/out/through
+280;in;if they let people like him ___;on/in/down
+281;out;if you are renting ___ residential;about/out/back
+282;up;if you are considering taking ___ a;over/out/up
+283;in;if you do decide to call ___ at;up/about/in
+284;out;if you don't pull something ___ by;up/out/around
+285;in;if you go ___ with;round/in/about
+286;out;if you happen to go ___ to;along/up/out
+287;out;if you have to read ___ your;round/out/on
+288;up;if you can't make ___ your;back/down/up
+289;out;if you only feel comfortable writing ___ your;about/out/back
+290;up;if you're asked to give ___ your;around/up/along
+291;off;in 1986 the brakes were taken ___;around/off/along
+292;out;in tests carried ___ in;along/out/down
+293;off;in the middle, and finish ___ with;off/along/around
+294;out;in the two years prior taking ___ the;in/back/out
+295;out;in this way you can find ___ whether;out/back/along
+296;about;in your life will naturally bring ___ a;around/about/over
+297;down;income tax were to be brought ___ to;around/along/down
+298;over;indeed, it even handed ___ several;down/over/along
+299;on;indeed, you can go ___ until;on/about/around
+300;up;infinity the line being made ___ of;around/about/up
+301;back;instead of being able to sit ___ and;down/back/around
+302;back;underwriters, with roots dating ___ to;about/back/down
+303;back;intellectuals have been looking ___ over;over/out/back
+304;out;two-way process giving ___ as well as;out/up/along
+305;up;into account or instead make ___ my;around/back/up
+306;out;negotiating situation and test ___ the;over/out/around
+307;out;iron stairs as she was hurrying ___;on/out/through
+308;back;is calculated daily and then paid ___ into;off/on/back
+309;back;is a great temptation to sit ___;on/back/round
+310;about;is bizarre or extreme may bring ___ weight;about/round/over
+311;back;is not always easy to stand ___ from;over/back/on
+312;on;and intends to carry ___ working;off/out/on
+313;up;is to try and add them ___ when;in/on/up
+314;down;is important that you cut ___ gradually;off/on/down
+315;on;isn't it extraordinary what goes ___ under;off/on/back
+316;down;it is conducted as a top ___;up/down/over
+317;up;it is sometimes worth following ___ written;around/up/about
+318;down;it rains, the car breaks ___;about/down/round
+319;off;it as the top is lifted ___;over/off/out
+320;out;it but he has to work ___ how;along/out/round
+321;up;it can be for starting ___ trading;around/about/up
+322;down;it easier to cut your dose ___;down/up/along
+323;off;it might help you to doze ___;off/around/through
+324;in;it was believed, brought ___ its;through/round/in
+325;out;it was ages before he came ___;along/out/round
+326;out;it was my father threw me ___;out/in/down
+327;up;it, we could set ourselves ___ nice;in/on/up
+328;up;it's all tied ___ in;up/in/down
+329;on;its foreign trade which it carries ___ with;round/on/in
+330;in;which room were you ___;in/on/off
+331;down;I've just got him ___;down/on/in
+332;back;Jane is able to stand ___ from;over/out/back
+333;on;joy you are able to pass ___ to;off/out/on
+334;down;just a few of them write ___ their;off/in/down
+335;on;sympathetically as he rambled ___ into;off/on/back
+336;back;Kevin o'Neil suddenly arrived ___ at;about/up/back
+337;down;kitchen table and made her sit ___;back/around/down
+338;through;knew he would have to go ___ with;through/back/in
+339;up;lay on her back and looked ___ at;down/around/up
+340;out;leaving the protagonists to fight it ___;along/up/out
+341;over;ledger administration we take ___ the;out/over/in
+342;back;life has a history that stretches ___ as;over/out/back
+343;out;life insurance plan that can pay ___;along/out/round
+344;in;life to the full putting ___ and;over/out/in
+345;out;little or no prompting to seek ___ information;through/over/out
+346;out;ll not have to reach ___ too;up/through/out
+347;up;local radio rental shop pick ___ a;up/around/back
+348;up;looked like just make it ___;along/up/through
+349;back;lots of properties, take you ___ for;down/back/through
+350;over;love will be repaid many times ___;on/over/down
+351;up;magnet for unwanted paper will fill ___;around/back/up
+352;on;make sure you don't take ___ more;along/on/round
+353;down;names you can write ___ on;down/round/out
+354;back;man who had taken the car ___ that;over/out/back
+355;through;management should think ___ the;through/around/down
+356;out;the subordinate to carry ___ a;off/out/round
+357;up;managers is merely to divide ___ the;round/over/up
+358;down;many of them you can write ___;over/out/down
+359;over;may be willing to hand ___ authority;down/over/along
+360;off;be sufficient to pay ___ your;off/along/around
+361;down;mean to say you could go ___ our;down/through/round
+362;through;let them help you think ___ the;through/back/in
+363;out;through taking ___ individual;down/through/out
+364;down;disappear rapidly once you get ___ to;along/around/down
+365;up;ask someone to write ___ the;up/in/back
+366;on;might be about what is going ___;along/on/through
+367;in;mind, the dates were going ___ and;over/out/in
+368;over;minds go blank as soon as they turn ___ the;about/over/out
+369;up;month now, you could build ___ a;around/about/up
+370;out;moon, you can just make ___ shapes;through/over/out
+371;up;more likely you are to end ___ in;around/up/about
+372;out;most people had come ___ as;down/out/on
+373;up;most of them, when grown ___;up/off/round
+374;over;mother whose child has just fallen ___;off/over/back
+375;down;the overflow simply drifts ___ to;down/in/on
+376;out;much of which turned ___ to;through/over/out
+377;along;take your completed form ___ to;down/back/along
+378;up;never let the incoming paper pile ___;off/in/up
+379;on;nevertheless, life went ___ as;about/on/down
+380;down;new ship, which was brought ___ from;up/along/down
+381;on;Noreen just let them get ___ with;along/on/round
+382;up;Noreen suddenly looked ___ at;down/off/up
+383;on;Noreen was kept ___ after;over/on/up
+384;round;Noreen's hand, then glared ___ at;through/round/on
+385;up;not feel tired, try staying ___ a little;on/in/up
+386;up;note with the other person feeling ___;up/out/on
+387;on;now it is time to go ___;around/about/on
+388;out;nuisance in trying to buy them ___;along/out/round
+389;out;O'Neil would like to come ___ to;out/back/along
+390;through;help in learning to negotiate ___ off;through/in/back
+391;out;occasionally take them ___ and;out/along/back
+392;up;of tasting it, pick it ___;up/round/about
+393;down;of food if your freezer breaks ___;around/along/down
+394;out;of Maribor University, has pointed ___;back/along/out
+395;out;of return and other factors set ___ in;about/out/back
+396;down;of the child of prague looked ___ in;back/around/down
+397;along;of the fast reader will travel ___ smoothly;out/over/along
+398;on;of the great western railway lives ___ at;on/down/around
+399;out;of the half million tests carried ___ for;out/in/down
+400;about;of the imagination, can bring ___ dramatic;down/about/over
+401;up;bonuses, which build ___ annually;on/in/up
+402;up;of thousands of businesses to start ___;round/over/up
+403;out;of time for them to find ___ what;back/out/up
+404;up;but your child took ___ smoking;off/in/up
+405;around;of us are so busy rushing ___ that;around/round/over
+406;out;on excellent terms to find ___ if;around/through/out
+407;down;on her right arm and looking ___;along/down/up
+408;about;on one leg, going ___ with;down/about/up
+409;out;on suspicion of carrying ___ a;up/through/out
+410;down;once the temperature has cooled ___;off/down/back
+411;out;one glance at your well laid ___;in/out/in
+412;out;one day someone will catch him ___;out/down/around
+413;up;one of my own patients grew ___ in;in/on/up
+414;down;one time we can all sit ___ together;over/on/down
+415;back;only make sense when you look ___ on;out/back/down
+416;up;only stare as uncle Mick got ___;through/round/up
+417;back;only by trying to stand ___ from;off/back/around
+418;out;when other children were ___ playing;along/up/out
+419;out;opponent to take time to think ___ his;up/round/out
+420;up;options and proposals which make ___ your;around/up/about
+421;on;or are poorly motivated to take ___ wider;in/off/on
+422;off;or suppose you're setting ___ on;back/off/out
+423;out;or think that they could lose ___ to;over/out/off
+424;in;or advice you need call ___ or;through/round/in
+425;out;or she will try to test ___ your;around/down/out
+426;off;or should he just take it ___ again;off/in/down
+427;out;commentators have pointed ___ that;up/out/round
+428;down;other places closed ___ saloons;around/along/down
+429;up;other, or divide the role ___;out/on/up
+430;up;our administration, and began running ___ against;round/over/up
+431;out;our business is hiring ___ technical;about/out/over
+432;on;our characteristics are passed ___ by;round/on/about
+433;up;own boss can also open ___ the;off/in/up
+434;up;page 11 washing ___ is;up/along/down
+435;on;part of these funds was passed ___ as;off/on/back
+436;up;part, those parts would link ___;up/in/off
+437;up;so incensed he got ___ at once;up/off/in
+438;down;pen by the bed and write ___ any;in/down/around
+439;about;people are the ones managers moan ___;about/over/round
+440;back;people, reorganise and get ___ on;down/back/off
+441;out;performed and how they are carried ___ in order;out/back/along
+442;up;perhaps the car has really given ___;up/along/about
+443;off;plan, are used to pay ___ the;off/up/round
+444;over;plans, or an unplanned stop ___ in;down/over/along
+445;up;played a major part in whipping ___ anti-Albanian;round/up/down
+446;out;please don't wait to find ___ these;round/out/on
+447;out;policyholders show it pays to take ___ a;up/out/around
+448;out;also about handing ___ work;through/out/down
+449;back;which we are paying ___ long-term;out/on/back
+450;up;when the opportunity came ___ to;round/over/up
+451;up;presentation and follow ___;off/out/up
+452;out;principles of ownership are set ___ in;over/round/out
+453;down;proceed to follow the pattern laid ___;in/down/about
+454;out;and Greek tragedy plays ___ the;back/out/up
+455;back;pushed against Rico, who staggered ___;through/up/back
+456;up;react at first but then she looked ___;up/around/about
+457;on;read music at Oxford and went ___ to;up/on/along
+458;up;ready money you needed to snap ___ a;along/up/through
+459;out;and the order went ___ that;out/in/down
+460;up;red, for example and pick ___ and;up/in/down
+461;about;reduce your intake thus bringing ___ a;about/down/back
+462;up;regular savings we can easily set ___ a;back/along/up
+463;up;reports it is often worth adding ___ the;up/off/in
+464;out;resources are available to carry it ___;up/round/out
+465;off;Rico threw her ___;out/off/over
+466;up;rights, the government set ___ a;on/in/up
+467;up;risk if you do not keep ___ repayments;around/up/about
+468;up;said Eugene and agreed to rest ___;around/about/up
+469;up;said Noreen, lifting the child ___ and;out/on/up
+470;out;TV systems available and work ___ what;out/about/around
+471;out;saxes in the air blaring ___;out/up/along
+472;out;schemes for employees is set ___ as;along/up/out
+473;out;a way of sorting ___ candidates;over/round/out
+474;around;index cards which you carry ___ with;around/out/on
+475;out;she had gone ___ to;down/out/through
+476;out;she insisted on putting ___ the;out/back/around
+477;out;she threw you ___;down/out/on
+478;out;she tried to belt it ___ as;out/about/around
+479;off;she has not cut herself ___ from;off/over/through
+480;up;she will never give it ___;around/back/up
+481;up;shop would come and pick it ___;up/through/about
+482;on;should he continue getting it ___;back/around/on
+483;up;should she pick ___ the;up/around/about
+484;out;should you find ___ there;about/out/off
+485;down;the managerial wish to pin ___ facts;down/through/round
+486;down;many negotiations seem to break ___ at;down/back/along
+487;up;slides or flip charts to put ___ lists;up/in/back
+488;in;so be ready to fill ___ and;through/in/on
+489;up;so don't give it ___ until;up/along/back
+490;on;so hurry, pass ___ this;in/off/on
+491;out;so let me spell ___ a;over/round/out
+492;in;so bad that Noreen was called ___ to;around/along/in
+493;about;so how does one go ___ becoming;back/about/off
+494;out;so in-depth inspections are being carried ___ now;through/over/out
+495;out;so instead you set ___ either;around/out/through
+496;up;so lightly, but Rachel looked ___;up/back/off
+497;on;so simply by carrying ___ your;back/along/on
+498;up;so that our parents will pick us ___;through/round/up
+499;up;so the family can keep ___ with;up/off/in
+500;out;so we took ___ a;over/round/out
+501;out;society's tax exemption by taking ___ a;down/back/out
+502;down;some briefings even lay ___ the;off/in/down
+503;up;exceptions avoid facing ___ squarely;on/in/up
+504;out;some bankers pointed ___ that;through/over/out
+505;out;so that others can carry ___ the;on/out/through
+506;back;sometimes they will go ___ to;in/off/back
+507;up;spent in the average household washing ___ in;back/along/up
+508;up;standard excuse that usually crops ___ when;up/around/back
+509;up;step 11 draw ___ and;around/back/up
+510;out;steps and chart below to work ___ a;up/round/out
+511;on;sticky cashflow and after taking ___ a;through/about/on
+512;out;stool in the parlour picking ___ a;out/round/through
+513;on;stop on each word before moving ___ to;round/on/off
+514;on;opposition to taking ___ delegated;round/on/through
+515;out;plans are usually carried ___ using;round/out/on
+516;out;Saverplus 2001 which were taken ___ 10;along/out/round
+517;out;suggestions as to how you carry them ___;back/out/up
+518;about;suppression of anger also brings ___ other;about/around/along
+519;out;sure it is competent to carry ___ the;through/out/in
+520;out;sure to have a happy day ___;over/round/out
+521;up;sure way of making it pop ___ again;through/round/up
+522;down;switch as a way of cutting ___ queues;off/on/down
+523;through;systematically thinking ___ what;through/down/around
+524;down;Tina had felt let ___;over/down/up
+525;down;task is complex and needs breaking ___ into;up/about/down
+526;over;should not be handed ___ to;up/over/up
+527;back;but some of it goes ___ further;off/back/around
+528;over;telling her that the operation was ___;up/over/over
+529;on;temptation therefore is to take them ___;round/over/on
+530;out;tests have been regularly carried ___ since;out/about/around
+531;down;that is what you must put ___;round/over/down
+532;on;that he knows all that goes ___ in;about/on/over
+533;on;that most people like to dwell ___;back/around/on
+534;out;that propaganda makes it ___ to;around/down/out
+535;round;that night the adults sat ___ in;off/round/round
+536;in;that the more you put ___;in/around/along
+537;over;power you have handed ___ will;out/over/in
+538;up;that we can to fill ourselves ___ for;on/back/up
+539;down;that you are a bit run ___;on/down/round
+540;down;that your appearance lets you ___;over/down/up
+541;up;that, once you have given ___ smoking;along/up/round
+542;out;that, which I believe led ___ to;about/out/over
+543;out;the afternoon, would have gone ___ to;out/down/around
+544;back;the age of 28 he went ___ to;back/along/up
+545;up;the analysis stage may throw ___ numerous;on/in/up
+546;out;the answer turned ___ to;on/out/through
+547;out;back door and they started ___ again;over/round/out
+548;off;the balance outstanding will be paid ___;off/on/in
+549;up;barman, calmly tearing ___ at least;back/down/up
+550;up;beginning of a person taking ___ their;up/along/back
+551;up;the cash benefit that had built ___ at;back/down/up
+552;out;the changes are set ___ in;around/out/through
+553;out;the day the policy is taken ___;on/out/through
+554;up;the former child will grow ___ to;up/in/down
+555;out;the German soldier was holding ___ a;down/out/on
+556;round;the glory of the lord shone ___ about;over/round/in
+557;down;the government virtually had to climb ___ over;down/out/off
+558;up;the habit continues when we grow ___;through/round/up
+559;up;the kitchen sink doing the washing ___;round/over/up
+560;down;loan, in order to keep ___ premiums;in/down/about
+561;in;the lucky winners, simply fill ___;in/over/out
+562;up;the man who'd sent them ___;off/in/up
+563;on;the manager knows what is going ___ inside;down/around/on
+564;up;the manager makes ___ his;round/through/up
+565;back;the men began to drift ___;off/back/about
+566;out;the repayments table to find ___ what;along/out/down
+567;on;the new tree planting was coming ___;over/on/up
+568;in;the nose as the air taken ___ is;out/in/through
+569;down;the number and not write it ___;down/through/round
+570;up;the original dinar values by multiplying ___;on/in/up
+571;back;the origins of barclays go ___ some;round/over/back
+572;up;the other two shrilly bobbing ___ and;up/through/about
+573;up;the person's name to conjure ___ a;back/around/up
+574;out;the possibility cannot be ruled ___ that;round/out/on
+575;down;problem is to winnow these ___ to;back/down/along
+576;up;the problem of tying your money ___;up/along/back
+577;out;the property, and also carry ___ the;out/along/around
+578;up;inflation was moving ___ towards;about/through/up
+579;down;rate of inflation would come ___ to;off/in/down
+580;back;the received item and send it ___;down/in/back
+581;out;when she suddenly screamed ___;around/out/in
+582;back;roots of nationalism go ___ at least;along/around/back
+583;out;number pencilling them ___ lightly;around/down/out
+584;up;lieutenant Keith bringing ___ the;up/around/about
+585;on;the sitting-room while it was going ___;down/in/on
+586;in;the situation is one with built ___ conflict;around/back/in
+587;in;the spy that came ___ from;down/in/around
+588;down;the SS Titanic, was going ___ stern;down/back/in
+589;through;the subordinate to thinking ___ what;through/in/on
+590;out;the surrender values set ___ in;up/through/out
+591;down;the three young ones were all ___ with;down/up/along
+592;in;the train drew ___ to;in/round/up
+593;off;the two of them could be ___ to;off/on/in
+594;up;vaudeville columns had picked it ___;through/round/up
+595;up;the veins in her neck swelled ___;back/around/up
+596;down;the washing machine has broken ___;over/on/down
+597;back;the women would take Nessie ___ to;off/on/back
+598;in;the young men wanted to be ___ on;over/out/in
+599;up;Europe was already building ___ its;around/up/along
+600;up;their children have grown ___;up/back/down
+601;up;themselves, but this quickly shows ___;up/through/about
+602;through;there was an opening to get ___;through/out/on
+603;back;there would be time to get ___ to;in/back/about
+604;about;these have to be brought ___ as;around/about/round
+605;off;these tend to put people ___ applying;off/about/through
+606;about;they didn't know they read ___;back/around/about
+607;down;they sat him ___ roughly;down/up/along
+608;off;they can tip you ___ about;off/over/on
+609;about;they may be sometimes bring ___ confusion;about/on/out
+610;out;this is too big and blocks ___ too;around/out/through
+611;in;this is where true holism comes ___;out/in/down
+612;on;this respect, you can go ___ to;along/about/on
+613;out;this time the phone was ringing ___;out/about/around
+614;around;thousands of people walking ___ in;around/round/over
+615;up;thus delegation can end ___ costing;up/through/about
+616;back;tina 's confinement, then came ___ in;along/about/back
+617;up;to ensure that you can pick ___ the;back/around/up
+618;over;to expect someone else to take ___;down/over/up
+619;out;to help you work ___ what;over/round/out
+620;out;to join a club and work ___ three;around/out/through
+621;down;to keep the costs of premiums ___;through/down/out
+622;out;your particular message stand ___ from;along/out/down
+623;up;meet your needs in setting ___ your;back/around/up
+624;up;persuade communes to give ___ their;along/up/on
+625;up;to stay at home and bring ___ their;on/in/up
+626;up;to regularly sum ___ where;down/off/up
+627;out;when it comes to drawing ___ facts;in/back/out
+628;out;try and force them ___ or;up/out/over
+629;down;twelve-year-old had been knocked ___ by;down/around/about
+630;up;minutes or so and build ___ gradually;back/around/up
+631;back;two or three weeks go ___ to;through/round/back
+632;down;uncle Mick grinned as he looked ___ on;over/on/down
+633;down;unit prices, which can go ___ as well as;in/down/about
+634;down;until you have refined your aim ___ to;down/over/on
+635;off;until, grateful, he rings ___;off/in/on
+636;out;use this planner to work ___ what;on/out/through
+637;down;useful lever for getting the price ___;down/round/out
+638;up;a vacuum cleaner to pick ___ the;off/in/up
+639;out;very sober pair as they set ___ again;around/out/through
+640;back;violence, mordant wit and laid ___;about/back/down
+641;about;volunteers for anything, or lies ___ with;out/over/about
+642;down;walk and how often he falls ___ only;down/over/on
+643;up;was jeered for speaking ___ for;back/around/up
+644;over;was signed and the war was ___;down/over/along
+645;out;was a senior nurse who came ___ to;up/round/out
+646;around;was only one of several busy ___ that;around/round/over
+647;out;was thoughtful as he carefully stubbed ___ his;out/down/around
+648;down;way, if base rate goes ___ we;off/down/over
+649;down;we are keeping our outgoings ___;along/down/back
+650;up;we feel that we need cheering ___;up/along/back
+651;up;we have shut our banks ___ within;round/through/up
+652;on;we all need sufficient to live ___;round/on/through
+653;down;we frequently have to break ___ the;on/off/down
+654;down;we were able to draw ___ sums;over/out/down
+655;out;we'd been sent ___ here;out/along/about
+656;down;weird and it was getting Liam ___;through/up/down
+657;back;we'll have to be traveling ___;off/back/along
+658;back;well, I came ___ here;about/back/off
+659;up;were looking for two to bring ___ the;up/around/about
+660;on;were shouting at her to get ___ with;about/on/over
+661;back;were quick, she could get ___ to;through/round/back
+662;up;what do you have to give ___ to;about/through/up
+663;about;what radio rentals is all ___;along/around/about
+664;on;and feelings are going ___ inside;around/on/through
+665;out;when an adult, seek ___ others;over/out/off
+666;up;when first you tried to get ___;along/up/through
+667;back;when his effects were sent ___ to;around/back/about
+668;over;when I took ___ my;in/over/round
+669;up;when I first came ___ from;around/about/up
+670;in;when Maria heard her mother come ___;in/back/around
+671;up;when Mike grows ___;back/in/up
+672;over;when the communists took ___ in;through/over/around
+673;out;when they're thinking of taking ___ a;out/in/down
+674;down;when uncle Mick pulled his cap ___ over;on/off/down
+675;up;feel anger welling ___ within;around/up/about
+676;off;when you relax and switch ___;over/off/round
+677;out;when you take ___ your;out/up/along
+678;out;when you take ___ Saverplus;up/through/out
+679;out;where history is made find ___ why;around/down/out
+680;up;where'd you pick that ___;up/over/through
+681;back;whether he would get his money ___;in/off/back
+682;down;which causes blood circulation to slow ___;down/out/off
+683;through;which will enable him to pull ___;through/out/around
+684;out;other acquisitions brings ___ total;around/down/out
+685;out;which, as already pointed ___;off/out/back
+686;up;while my earnings built ___;through/round/up
+687;over;while the government took them ___;out/over/in
+688;up;were growing ___ strong;off/in/up
+689;back;whole box of them bringing ___ a;round/over/back
+690;out;why not find ___ more;out/round/through
+691;down;why not zoom ___ to;off/on/down
+692;out;why you should take ___ the;out/about/around
+693;up;obliged constantly to speed ___ the;on/in/up
+694;on;will perish, the spirit goes ___ from;over/on/up
+695;through;will never be able to get ___ to;through/around/in
+696;off;will the effort completely put you ___ your;off/round/out
+697;on;will we be able to go ___ being;back/on/off
+698;back;will you give me a lift ___ in;about/up/back
+699;down;with his arms folded staring ___ at;down/up/along
+700;through;with so many things to get ___ in;through/down/off
+701;around;with the other, or fumble ___ for;around/out/over
+702;through;with their staff and follow this ___ to;through/on/off
+703;up;with them, they will grow ___ to;round/over/up
+704;out;within twelve months of taking ___ a;in/back/out
+705;on;compelling him to take ___ more;down/around/on
+706;on;worth getting it in hand early ___;through/round/on
+707;off;right to cut herself ___ from;off/round/out
+708;on;would have taken both of them ___;off/in/on
+709;in;would like a loan simply fill ___ the;about/up/in
+710;up;release money tied ___ in;up/around/about
+711;up;would, in fact, end ___ by;around/along/up
+712;up;ye, he'll be sittin' ___ as;off/out/up
+713;up;they jumped ___ and;on/in/up
+714;in;detective Frank Keller called ___ to;in/up/round
+715;on;you choose whether to hold ___ to;off/on/back
+716;up;you do if the pope throws ___ at;around/up/along
+717;out;you find it impossible to speak ___;about/out/round
+718;up;you have always wanted to go ___ in;around/up/about
+719;in;you have to do is fill ___ a;out/on/in
+720;off;you re-structure your finances by paying ___ all;off/around/along
+721;out;cut the stimulants ___ completely;in/back/out
+722;up;you wanted, don't give ___ hope;round/up/along
+723;down;you can begin to pin ___ some;over/on/down
+724;down;you can draw ___ the;around/out/down
+725;off;you can pay ___ the;off/back/down
+726;out;you can take ___ a;out/round/through
+727;off;you could put it towards paying ___ a;off/about/along
+728;up;you may not want to get ___;in/on/up
+729;up;you thus end ___ with;round/up/around
+730;up;you will also need to take ___ references;up/through/about
+731;up;you'd better hurry ___ and;back/in/up
+732;in;your daddy to bring ___ the;up/through/in
+733;on;simply by carrying ___ paying;off/on/back
+734;down;your heart and pulse rate slow ___ again;off/on/down
+735;in;your home more comfortable to live ___;round/in/off
+736;in;your home more comfortable to live ___;in/along/up
+737;up;your muscles tighten ___;up/around/down
+738;up;your own grief so that they grow ___ with;around/up/along
+739;out;your pre-meeting estimates may quickly turn ___ to;up/through/out
+740;off;your shoes pinch take them ___;off/down/back
+741;up;your daughter to grow ___ able;up/off/in
+742;back;you've hardly got your breath ___;over/out/back

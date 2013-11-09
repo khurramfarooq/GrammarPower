@@ -18,10 +18,18 @@
     <string name="noun_plural"> 3. Noun plural</string>    
     <string name="preposition_selected"> 4. Perposition selected</string>
     <string name="phrasal_verbs"> 5. Phrasal verbs</string>
-    <string name="quiz_activity">Irregular Past</string>
     
+    <string name="quiz_activity_IrregularPast">Irregular Past</string>
+    <string name="quiz_activity_IrregularParticiple">Irregular participle</string>
+    <string name="quiz_activity_PrepositionSelection">Preposition selection?</string>
+    <string name="quiz_activity_Pharasalverbs">Pharasal verbs</string>
+    <string name="quiz_activity_Nounplural">Noun plural</string>
     
-    <string name = "past_question">Which is correct past?</string>
+    <string name = "past_question">Which is the correct past?</string>
+    <string name = "participle_question">Which is the correct participle?</string>
+    <string name = "preposition_question">Which preposition fits best?</string>
+    <string name = "pharasalverb_question">Which particle fits the very best?</string>
+    <string name = "nounplural_question">Which is the best plural noun?</string>
     
     
 

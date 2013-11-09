@@ -36,7 +36,7 @@
 			        android:layout_marginTop="15dp"  
     	    >
     	    <Button 				       
-			        android:id="@+id/grammar_irregularVerbs"		       
+			        android:id="@+id/grammar_irregularPast"		       
 			        android:layout_width="match_parent"
        				android:layout_height="wrap_content"    
 			        android:text="@string/irregular_verbs_past"
@@ -45,7 +45,7 @@
 			        />
 				   <Button 				       
 			        android:id="@+id/grammar_irregularVerbsParticiple"
-			        android:layout_below="@+id/grammar_irregularVerbs"			       
+			        android:layout_below="@+id/grammar_irregularPast"			       
 			        android:layout_width="match_parent"
 			        android:layout_height="wrap_content" 
 			        android:text="@string/irregular_verbs_participle"

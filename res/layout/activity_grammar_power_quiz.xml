@@ -105,7 +105,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="17dp"
         android:textSize="20sp"
-        android:text="Kannst du dich einfühlen?"
+        android:text="Will you break your own record?"
         android:layout_centerHorizontal="true"
         android:textColor="#ffffff"/>
     <Button 

@@ -27,15 +27,36 @@
             android:label="@string/select_activity"
             android:screenOrientation="portrait"
             >
-            
-            
         </activity>
         <activity
-            android:name="com.android.grammarpower.activity.Grammar_Power_QuizActivity"
-            android:label="@string/quiz_activity"
+            android:name="com.android.grammarpower.activity.QuizActivity_IrregularPast"
+            android:label="@string/quiz_activity_IrregularPast"
             android:screenOrientation="portrait"            
             >
-            
+        </activity>
+        <activity
+            android:name="com.android.grammarpower.activity.QuizActivity_PhrasalVerbs"
+            android:label="@string/quiz_activity_Pharasalverbs"
+            android:screenOrientation="portrait"            
+            >
+        </activity>
+        <activity
+            android:name="com.android.grammarpower.activity.QuizActivity_NounPlural"
+            android:label="@string/quiz_activity_Nounplural"
+            android:screenOrientation="portrait"            
+            >
+        </activity>
+        <activity
+            android:name="com.android.grammarpower.activity.QuizActivity_Participles"
+            android:label="@string/quiz_activity_IrregularParticiple"
+            android:screenOrientation="portrait"            
+            >
+        </activity>
+        <activity
+            android:name="com.android.grammarpower.activity.QuizActivity_Preposition"
+            android:label="@string/quiz_activity_PrepositionSelection"
+            android:screenOrientation="portrait"            
+            >
         </activity>
     </application>
 
