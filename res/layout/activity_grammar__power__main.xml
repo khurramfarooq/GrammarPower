@@ -6,7 +6,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".Grammar_Power_MainActivity" 
+    tools:context=".Grammar_Power_MainActivity"
     android:background="@drawable/background">
     
     <LinearLayout
@@ -17,7 +17,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="0.5"
+        android:layout_weight="0.3"
         android:id="@+id/mainActivityLayout_titleImage"
         >
         <ImageView
@@ -30,15 +30,16 @@
     </RelativeLayout>
     <RelativeLayout 
         android:layout_width="match_parent"
-        android:layout_height="2dp"
+        android:layout_height="0dp"
         android:layout_weight="0.5"
 		        >        
 				 <ScrollView 
 				      	android:id="@+id/GrammarActivity_ScrollView"
 				      	android:layout_width="fill_parent"
-				   	 	android:layout_height="150dp"
+				   	 	android:layout_height="match_parent"
 				    	android:scrollbars="vertical"
 				    	android:layout_marginTop="25dp"
+				    	android:fadeScrollbars="false"
 				    	>   
 				    <LinearLayout
 				        android:id="@+id/GrammarActivity_TextLayout"
@@ -98,8 +99,13 @@
 				        android:text="@string/endText"/>
 				     </LinearLayout>
 		</ScrollView>
-    <Button 
-        android:layout_below="@+id/GrammarActivity_ScrollView"
+    </RelativeLayout>
+	<RelativeLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp"
+	    android:layout_weight="0.2"
+	    >
+	    <Button
         android:id="@+id/grammarAcitivty_strtBtn"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
@@ -107,7 +113,8 @@
         android:layout_height="wrap_content" 
         android:layout_marginTop="10dp"      
         android:text="Start"/>
-    </RelativeLayout>
+	</RelativeLayout>
+	
 	</LinearLayout>
     
     
