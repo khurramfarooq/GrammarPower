@@ -5,7 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="main_image">Hello world!</string>
-    <string name="title">Here You find power tests for main difficulties:</string>
+    <string name="title">Here you find power tests for main difficulties:</string>
     <string name="option1">* Irregular verbs</string>
     <string name="option2">* Noun plural</string>
     <string name="option3">* Prepositions</string>
@@ -19,9 +19,9 @@
     <string name="preposition_selected"> 4. Preposition selected</string>
     <string name="phrasal_verbs"> 5. Phrasal verbs</string>
     
-    <string name="quiz_activity_IrregularPast">Irregular Past</string>
+    <string name="quiz_activity_IrregularPast">Irregular past</string>
     <string name="quiz_activity_IrregularParticiple">Irregular participle</string>
-    <string name="quiz_activity_PrepositionSelection">Preposition selection?</string>
+    <string name="quiz_activity_PrepositionSelection">Preposition selection</string>
     <string name="quiz_activity_Pharasalverbs">Pharasal verbs</string>
     <string name="quiz_activity_Nounplural">Noun plural</string>
     
@@ -29,7 +29,13 @@
     <string name = "participle_question">Which is the correct participle?</string>
     <string name = "preposition_question">Which preposition fits best?</string>
     <string name = "pharasalverb_question">Which particle fits the very best?</string>
-    <string name = "nounplural_question">Which is the best plural noun?</string>
+    <string name = "nounplural_question">Which is the usual plural noun?</string>
+    
+    <string name="hint_break">Will you break your own record?</string>
+    <string name="hint_alec">Smart alec did 182 within 16 min.</string>
+    <string name="hint_specialist">Specialists did 172 within 15 min.</string>
+    <string name="hint_sophisticates">Sophisticates did 153 within 15 min.</string>
+    <string name="hint_Smartasses">Smartasses did 172 within 18 min.</string>
     
     
 

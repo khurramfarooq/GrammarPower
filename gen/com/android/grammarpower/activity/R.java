@@ -973,7 +973,7 @@ containing a value of this type.
         public static final int abs__textButton=0x7f040013;
         public static final int abs__title=0x7f04001b;
         public static final int abs__up=0x7f04000b;
-        public static final int action_settings=0x7f04004d;
+        public static final int action_settings=0x7f04004e;
         public static final int disableHome=0x7f040009;
         public static final int edit_query=0x7f040026;
         public static final int grammarAcitivty_strtBtn=0x7f04003b;
@@ -987,6 +987,7 @@ containing a value of this type.
         public static final int listMode=0x7f040002;
         public static final int mainActivityLayout_titleImage=0x7f040032;
         public static final int normal=0x7f040001;
+        public static final int quizActivity_hintText=0x7f04004d;
         public static final int quizActivity_lLayoutOption1=0x7f040045;
         public static final int quizActivity_lLayoutOption2=0x7f040047;
         public static final int quizActivity_lLayoutOption3=0x7f040049;
@@ -1083,6 +1084,11 @@ containing a value of this type.
         public static final int app_name=0x7f09000d;
         public static final int endText=0x7f090016;
         public static final int hello_world=0x7f09000f;
+        public static final int hint_Smartasses=0x7f09002c;
+        public static final int hint_alec=0x7f090029;
+        public static final int hint_break=0x7f090028;
+        public static final int hint_sophisticates=0x7f09002b;
+        public static final int hint_specialist=0x7f09002a;
         public static final int irregular_verbs_participle=0x7f09001a;
         public static final int irregular_verbs_past=0x7f090019;
         public static final int main_image=0x7f090010;

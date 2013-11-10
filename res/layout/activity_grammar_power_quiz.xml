@@ -101,11 +101,11 @@
         android:layout_marginTop="10dp"/>
     <TextView 
         android:layout_above="@+id/quizActivity_stopButton"
+        android:id="@+id/quizActivity_hintText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="17dp"
         android:textSize="20sp"
-        android:text="Will you break your own record?"
         android:layout_centerHorizontal="true"
         android:textColor="#ffffff"/>
     <Button 

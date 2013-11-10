@@ -42,6 +42,7 @@ public class QuizActivity_Participles extends SherlockFragmentActivity  {
 	List<String> fileText = null;
 	QuizData quizData = null;
 	Random random = new Random();
+	TextView hintText = null;
 	//ProgressDialog progressDialog = null;
 	ImageView optionResultImage = null;
 	int questionNumber = 1;
@@ -71,11 +72,13 @@ public class QuizActivity_Participles extends SherlockFragmentActivity  {
 		option3 = (RadioButton)findViewById(R.id.quizActivity_option3);
 		questionText = (TextView)findViewById(R.id.quizActivity_questionTextInWhite);
 		optionResultImage = (ImageView)findViewById(R.id.quizActivity_optionResultImage);
+		hintText = (TextView)this.findViewById(R.id.quizActivity_hintText);
 		Button stopBtn = (Button)findViewById(R.id.quizActivity_stopButton);
 		TextView yellowQuestionText = null;
 		yellowQuestionText = (TextView)findViewById(R.id.quizActivity_questionTextInYellow);
 		yellowQuestionText.setText(R.string.participle_question);
 		
+		hintText.setText(R.string.hint_alec);
 		final Runnable updateTimerThread = new Runnable() {
 
 			public void run() {

@@ -42,6 +42,7 @@ public class QuizActivity_NounPlural extends SherlockFragmentActivity  {
 	List<String> fileText = null;
 	QuizData quizData = null;
 	Random random = new Random();
+	TextView hintText = null;
 	//ProgressDialog progressDialog = null;
 	ImageView optionResultImage = null;
 	int questionNumber = 1;
@@ -74,8 +75,10 @@ public class QuizActivity_NounPlural extends SherlockFragmentActivity  {
 		Button stopBtn = (Button)findViewById(R.id.quizActivity_stopButton);
 		TextView yellowQuestionText = null;
 		yellowQuestionText = (TextView)findViewById(R.id.quizActivity_questionTextInYellow);
+		hintText = (TextView)this.findViewById(R.id.quizActivity_hintText);
 		yellowQuestionText.setText(R.string.nounplural_question);
 		
+		hintText.setText(R.string.hint_specialist);
 		final Runnable updateTimerThread = new Runnable() {
 
 			public void run() {
